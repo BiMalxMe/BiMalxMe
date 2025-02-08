@@ -1,3 +1,4 @@
+
 # 🚀 Hey there, I'm Bimal! 👋
 
 ✨ A passionate **Web Developer** & **AI/ML Enthusiast** constantly exploring the vast world of technology.  
@@ -32,8 +33,9 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiMalxMe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiMalxMe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=550&langs_count=6" height="180px"/>
 </p>
+
+
 
 <!-- Proudly created By Mr Bimal Chalise  -->
