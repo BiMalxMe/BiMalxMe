@@ -31,10 +31,7 @@
   <img src="https://skillicons.dev/icons?i=c,js,python,ts,powershell,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,fastapi,prisma,numpy,pandas,matplotlib&theme=dark" alt="Tech Stack Icons"/>
 </p>
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiMalxMe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=550&langs_count=6" height="180px"/>
-</p>
+
 
 
 
