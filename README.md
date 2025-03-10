@@ -28,7 +28,7 @@
 
 ## 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,python,ts,powershell,react,nextjs,nodejs,express,mongodb,postgres,redis,docker,fastapi,prisma,numpy,pandas,matplotlib&theme=dark" alt="Tech Stack Icons"/>
+  <img src="https://skillicons.dev/icons?i=c,js,python,ts,powershell,react,nextjs,nodejs,express,mongodb,postgres,docker,fastapi,prisma,numpy,pandas,matplotlib&theme=dark" alt="Tech Stack Icons"/>
 </p>
 
 
