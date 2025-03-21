@@ -1,14 +1,7 @@
 
 # 🚀 Hey there, I'm Bimal! 👋
 
-✨ A passionate **Web Developer** & **AI/ML Enthusiast** constantly exploring the vast world of technology.  
-🎓 **BCA Student** with a hunger for learning & innovation.  
-🎮 Avid **Gamer, Tech Explorer, and Travel Enthusiast**.  
-💡 Currently diving into **Data Analysis & Advanced Backend Development** to push the limits of what's possible.  
 
-⚡ *Turning ideas into reality through code and creativity!* 🚀
-
----
 
 ## 🌐 Connect with Me:
 <p align="center">
@@ -24,11 +17,6 @@
   <a href="https://github.com/BiMalxMe" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</p>
-
-## 💻 Tech Stack:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,python,ts,powershell,react,nextjs,nodejs,express,mongodb,postgres,docker,fastapi,prisma,numpy,pandas,matplotlib&theme=dark" alt="Tech Stack Icons"/>
 </p>
 
 
