@@ -1,7 +1,4 @@
-
 # 🚀 Hey there, I'm Bimal! 👋
-
-
 
 ## 🌐 Connect with Me:
 <p align="center">
@@ -19,8 +16,8 @@
   </a>
 </p>
 
-
-
-
-
-<!-- Proudly created By Mr Bimal Chalise  -->
+## 🌐 Deployed Projects:
+- **Ethereum and Solana Wallet**: [View here](https://bimalxwallet.vercel.app/)
+- **Simple Responsive Webpage**: [View here](https://bimalxme.vercel.app/)
+- **Framer Motion Deployed**: [View here](https://bimalxmotion.vercel.app/)
+- **Note Saving Website**: [View here](https://bimalxmedium.vercel.app/)
