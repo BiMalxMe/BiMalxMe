@@ -21,13 +21,16 @@
   <a href="https://bimalxwallet.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Ethereum%20&%20Solana%20Wallet-3563E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Ethereum and Solana Wallet"/>
   </a>
-  <a href="https://bimalxme.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Simple%20Responsive%20Webpage-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Simple Responsive Webpage"/>
+  <a href="https://bimalxgenerate.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Text%20to%20Image%20Generator-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Text to Image Generator"/>
+  </a>
+  <a href="https://bimalxmedium.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Note%20Saving%20Website-9333EA?style=for-the-badge&logo=vercel&logoColor=white" alt="Note Saving Website"/>
   </a>
   <a href="https://bimalxmotion.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Framer%20Motion%20Deployed-F97316?style=for-the-badge&logo=vercel&logoColor=white" alt="Framer Motion Deployed"/>
   </a>
-  <a href="https://bimalxmedium.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Note%20Saving%20Website-9333EA?style=for-the-badge&logo=vercel&logoColor=white" alt="Note Saving Website"/>
+  <a href="https://bimalxme.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Simple%20Responsive%20Webpage-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Simple Responsive Webpage"/>
   </a>
 </p>
