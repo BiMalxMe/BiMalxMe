@@ -16,6 +16,7 @@
   </a>
 </p>
 
+
 ## 🌐 Deployed Projects:
 <p align="center">
   <a href="https://bimalxwallet.vercel.app/" target="_blank">
@@ -27,6 +28,7 @@
   <a href="https://bimalxmedium.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Note%20Saving%20Website-9333EA?style=for-the-badge&logo=vercel&logoColor=white" alt="Note Saving Website"/>
   </a>
+  
   <a href="https://bimalxmotion.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Framer%20Motion%20Deployed-F97316?style=for-the-badge&logo=vercel&logoColor=white" alt="Framer Motion Deployed"/>
   </a>
@@ -34,3 +36,11 @@
     <img src="https://img.shields.io/badge/Simple%20Responsive%20Webpage-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Simple Responsive Webpage"/>
   </a>
 </p>
+<div align="center">
+
+  <a href="https://github.com/user-attachments/files/19787564/Bimal2s.Remume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/📄%20%20%20View%20My%20Resume%20%20%20-orange?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Resume"/>
+  </a>
+
+</div>
+
